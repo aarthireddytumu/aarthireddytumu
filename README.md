@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aarthi Reddy Tumu</h1>
 <h3 align="center">Loves to Code...</h3>
 
+<img src="https://github.com/aarthireddytumu/aarthireddytumu/blob/main/code.gif" align="right" alt="Coding" width=500>
+
 - 🔭 I’m currently working as **Application Development Associate @ Accenture**
 
 - 🌱 I’m currently learning **Cloud Computing**
@@ -9,7 +11,6 @@
 
 - 📫 How to reach me **aarthireddy20@gmail.com**
 
-<img src="
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
