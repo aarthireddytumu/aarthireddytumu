@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Automation, Programming, MachineLearning**
 
-- 💬 Ask me about **Az - 900, Web Development**
+- 💬 Ask me about **AZ - 900, DP-900, Web Development**
 
 - 📫 How to reach me **aarthireddy20@gmail.com**
 
