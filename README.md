@@ -3,9 +3,9 @@
 
 <img src="https://github.com/aarthireddytumu/aarthireddytumu/blob/main/code.gif" align="right" alt="Coding" width=500>
 
-- 🔭 I’m currently working as **Application Development Associate @ Accenture**
+- 🔭 I’m currently working as **Application Development Analyst @ Accenture**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing, Automation, Programming, MachineLearning**
 
 - 💬 Ask me about **Az - 900, Web Development**
 
